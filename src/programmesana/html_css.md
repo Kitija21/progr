@@ -385,7 +385,7 @@ Galvenajā lapā ievietosim saiti uz jauno sadaļu...
 <a href="jauna_sadala.html">Doties uz jauno sadaļu!</a>
 ~~~
 
-Ja HTML dokuments atrodas apakšmapē, svarīgi norādīt tās nosaukumu, piemēram, `sadalas/jauna.sadala.html`!
+Ja HTML dokuments atrodas apakšmapē, svarīgi norādīt tās nosaukumu, piemēram, `sadalas/jauna_sadala.html`!
 
 
 
